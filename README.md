@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on fumaai
-- 🌱 I’m currently learning vue3 vite typescript
+- 🔭 I’m currently working at Chengdu
+- 🌱 I’m currently learning AI prompt
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with life
 - 📫 How to reach me: https://idabaicai.github.io/
