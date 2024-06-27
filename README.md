@@ -12,3 +12,10 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🌱 I’m currently learning front-end skill
+
+
+my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idabaicai)](https://github.com/idabaicai/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=idabaicai&show_icons=true&theme=tokyonight)
