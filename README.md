@@ -52,7 +52,7 @@ my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visit
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/idabaicai" target="_blank">
+<a href="https://github.com/idabaicai" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/icandebug" target="_blank">
